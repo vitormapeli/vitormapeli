@@ -1,6 +1,6 @@
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;">
+    <td style="border: none; vertical-align: top;">
       
 ## Sobre mim <br>
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
@@ -9,28 +9,18 @@
 - 🌱 Aprendendo mais sobre Java.<br>
       
     </td>
-    <td style="border: none;">
-      <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="240" width="240">
+    <td style="border: none; vertical-align: top;">
+      <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="240" width="320">
     </td>
   </tr>
 </table>
 
 <br>
 
-<div style="display: inline_block">
-  <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Js-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Pytohn-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Java-Icon" height="30" width="40" src="https://github.com/vitormapeli/vitormapeli/assets/105941606/820d071c-51b7-4ddf-a216-cd7eedb36745">
-</div>
-
-<br>
-
 <table style="border: none;">
   <tr style="border: none;">
-    <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"></td>
-    <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true"></td>
+    <td style="border: none; vertical-align: top;"><img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"></td>
+    <td style="border: none; vertical-align: top;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true"></td>
   </tr>
 </table>
 
