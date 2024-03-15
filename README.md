@@ -17,7 +17,7 @@
 <br>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true" height="160">
+[![vitormapeli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true&stroke=0000&background=060A0CD0)](https://github.com/vitormapeli)
 
 ![vitormapeli's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true)
 
