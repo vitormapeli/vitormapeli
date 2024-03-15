@@ -1,8 +1,10 @@
+
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
 - 💼 Trabalhando com Back-end.
 - 🌱 Aprendendo mais sobre Java.
+
 
 <div style="display: inline_block">
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -13,15 +15,13 @@
 </div>
 
 <br>
+<a href=https://github.com/vitormapeli><img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" height="160"></a>
+<a href=https://github.com/vitormapeli><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true" height="160"></a>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true" style="max-width: 100%;">
-  </div>
-</div>
+
+   
+
+
 
 <br>
 
