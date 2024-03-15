@@ -3,13 +3,24 @@
 <img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-## Sobre mim
-<img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c">
+<table>
+  <tr>
+    <td>
+      ## Sobre mim
+
 
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
 - 💼 Trabalhando com Back-end.
 - 🌱 Aprendendo mais sobre java.
+    </td>
+
+<td><img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c"></td>
+  </tr>
+</table>
+
+
+
 
 <div style="display: inline_block"><br>
 <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
