@@ -15,14 +15,22 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
-  <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
-  </div>
-  <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
-  </div>
-</div>
+
+ <table>
+   <tr>
+     <td>
+       <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
+     </td>
+      <td>
+       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
+     </td>
+   </tr>
+ </table>
+    
+
+   
+
+
 
 <br>
 
