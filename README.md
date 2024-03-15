@@ -6,7 +6,7 @@
 - 🌱 Aprendendo mais sobre Java.
 
 
-<img href="https://github.com/vitormapeli/vitormapeli/assets/105941606/1dd939e4-a8a0-469d-87df-0c159953099b" style="float: right;">
+<img href="https://github.com/vitormapeli/vitormapeli/assets/105941606/1dd939e4-a8a0-469d-87df-0c159953099b">
 <div style="display: inline_block">
 
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
