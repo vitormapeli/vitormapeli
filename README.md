@@ -4,8 +4,6 @@
 - 💼 Trabalhando com Back-end.<br>
 - 🌱 Aprendendo mais sobre Java.<br>  
    
-</table>
-
 <br>
 
 <div style="display: inline_block">
@@ -18,11 +16,11 @@
 
 <br>
 
-<div style="display: flex;">
-  <div style="width: 36em;">
+<div style="display: flex; flex-direction: row;">
+  <div style="width: 50%;">
     <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
   </div>
-  <div style="width: 36em;">
+  <div style="width: 50%;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
   </div>
 </div>
