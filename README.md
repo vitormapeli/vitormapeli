@@ -15,7 +15,7 @@
 <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 <img align="center" alt="CSS-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <img align="center" alt="Pytohn-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-<img align="center" alt="Java-Icon" height="30" width="40" src="https://github.com/vitormapeli/vitormapeli/assets/105941606/820d071c-51b7-4ddf-a216-cd7eedb36745)
+<img align="center" alt="Java-Icon" height="30" width="40" src="https://github.com/vitormapeli/vitormapeli/assets/105941606/820d071c-51b7-4ddf-a216-cd7eedb36745")
 ">
 </div><br>
 
