@@ -1,7 +1,8 @@
 
-<img src="https://media.discordapp.net/attachments/1198357382464548904/1218023218036867262/ezgif.com-animated-gif-maker.gif?ex=66062784&is=65f3b284&hm=74f918c0d30092ec7b86a3126a34a9a3529f77e1e29a1b40d6eefb83900f741f&=" height="160">
 
-## Sobre mim
+
+## Sobre mim ![ezgif com-animated-gif-maker](https://github.com/vitormapeli/vitormapeli/assets/105941606/2750860f-aed2-4d28-8c22-9608d95e3c4b)
+
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.   
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
 - 💼 Trabalhando com Back-end.
