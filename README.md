@@ -18,11 +18,11 @@
 
 <br>
 
-<div style="display: inline-block">
-  <div>
+<div style="display: flex">
+  <div style="width=36em">
     <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
   </div>
-  <div>
+  <div style="width=36em">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
   </div>
 </div>
