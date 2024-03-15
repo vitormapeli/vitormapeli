@@ -1,10 +1,10 @@
-<div style="float left">
+
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
 - 💼 Trabalhando com Back-end.
 - 🌱 Aprendendo mais sobre Java.
-</div>
+
 
 <div style="display: inline_block">
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
