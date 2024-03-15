@@ -1,5 +1,5 @@
 
-<table style="border: none; width: 100%;">
+<table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
       
