@@ -6,11 +6,11 @@
 <table>
   <tr>
     <td style="border: none;">
-      ## Sobre mim
-        - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
-        - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
-        - 💼 Trabalhando com Back-end.
-        - 🌱 Aprendendo mais sobre java.
+      ## Sobre mim <br>
+        - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.<br>
+        - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.<br>
+        - 💼 Trabalhando com Back-end.<br>
+        - 🌱 Aprendendo mais sobre java.<br>
     </td>
     <td style="border: none;">
       <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="240" width="320">
