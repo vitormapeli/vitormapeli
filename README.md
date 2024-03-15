@@ -16,17 +16,10 @@
 <br>
 
 
- <table>
-   <tr>
-     <td>
-       <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
-     </td>
-      <td>
-       <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
-     </td>
-   </tr>
- </table>
-    
+<div>
+[![Readme Card]<img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
+[![Readme Card](https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true")]
+</div>
 
    
 
