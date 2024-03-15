@@ -1,4 +1,3 @@
-
 <table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;">
@@ -27,7 +26,7 @@
 <img align="center" alt="Java-Icon" height="30" width="40" src="https://github.com/vitormapeli/vitormapeli/assets/105941606/820d071c-51b7-4ddf-a216-cd7eedb36745">
 </div><br>
 
-<table>
+<table style="border: none;">
   <tr style="border: none;">
     <td style="border: none;"><img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true"></td>
     <td style="border: none;"><img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true"></td>
