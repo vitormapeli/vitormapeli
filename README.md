@@ -1,5 +1,5 @@
 <div align="left">
-  <p></p>Sobre mim
+  <p>Sobre mim
 
 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
