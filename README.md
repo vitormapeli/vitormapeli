@@ -1,12 +1,11 @@
 
+<img src="https://media.discordapp.net/attachments/1198357382464548904/1218023218036867262/ezgif.com-animated-gif-maker.gif?ex=66062784&is=65f3b284&hm=74f918c0d30092ec7b86a3126a34a9a3529f77e1e29a1b40d6eefb83900f741f&=" height="160">
+
 ## Sobre mim
-- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.   <img src="https://media.discordapp.net/attachments/1198357382464548904/1218023218036867262/ezgif.com-animated-gif-maker.gif?ex=66062784&is=65f3b284&hm=74f918c0d30092ec7b86a3126a34a9a3529f77e1e29a1b40d6eefb83900f741f&=" height="160">
+- 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.   
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
 - 💼 Trabalhando com Back-end.
 - 🌱 Aprendendo mais sobre Java.
-
-
-
 <div style="display: inline_block">
 
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
