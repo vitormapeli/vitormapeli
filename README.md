@@ -13,7 +13,7 @@
         - 🌱 Aprendendo mais sobre java.
     </td>
     <td style="border: none;">
-      <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="120" width="160">
+      <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="240" width="320">
     </td>
   </tr>
 </table>
