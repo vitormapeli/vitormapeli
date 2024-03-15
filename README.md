@@ -1,7 +1,7 @@
 
 
 ## Sobre mim
- <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/2750860f-aed2-4d28-8c22-9608d95e3c4b" align="right" width="190px"> 
+ <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/2750860f-aed2-4d28-8c22-9608d95e3c4b" align="right" width="160px"> 
  
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
