@@ -10,7 +10,7 @@
       
     </td>
     <td style="border: none;">
-      <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="240" width="320">
+      <img src="https://github.com/vitormapeli/vitormapeli/assets/105941606/4d1e5496-e87c-48ff-b295-420cf3121e5c" height="240" width="240">
     </td>
   </tr>
 </table>
