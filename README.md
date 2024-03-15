@@ -1,4 +1,4 @@
-<div style="float: left;">
+<div style="float: left;" height: 106px;>
 ## Sobre mim
 - 🤔 Explorando novas tecnologias e desenvolvendo soluções de software.
 - 🎓 Estudando Desenvolvimento de Sistemas na Fatec de Taquaritinga.
