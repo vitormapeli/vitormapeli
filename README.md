@@ -6,7 +6,7 @@
 - 🌱 Aprendendo mais sobre Java.
 
 
-<img href="https://discord.com/channels/@me/1198357382464548904/1218023218489724958">
+<img src="https://discord.com/channels/@me/1198357382464548904/1218023218489724958">
 <div style="display: inline_block">
 
   <img align="center" alt="HTML-Icon" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
