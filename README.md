@@ -17,17 +17,12 @@
   </tr>
 </table>
 
-<p align="left">
-  <a href="mailto:vitormapeli@gmail.com" title="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=flat-square&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:vitormapeli@gmail.com" alt="Gmail"/></a>
-  <a href="https://wa.me/5516997906339/" title="WhatsApp">
-  <img src="https://img.shields.io/badge/-WhatsApp-25d366?style=flat-square&labelColor=25d366&logo=whatsapp&logoColor=white&link=https://wa.me/5516997906339/" alt="WhatsApp"/></a>
-  <a href="https://www.linkedin.com/in/vitor-mapeli-263b3527a/" title="Linkedin">
-  <img src="https://img.shields.io/badge/-Linkedin-0e76a8?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vitor-mapeli-263b3527a/" alt="LinkedIn"/></a>
-  <a href="https://www.facebook.com/vitor.mapeli?locale=pt_BR" title="Facebook">
-  <img src="https://img.shields.io/badge/-Facebook-3b5998?style=flat-square&labelColor=3b5998&logo=facebook&logoColor=white&link=https://www.facebook.com/vitor.mapeli?locale=pt_BR" alt="Facebook"/></a>
-  <a href="https://www.instagram.com/vitor_mapeli/" title="Instagram">
-  <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=https://www.instagram.com/vitor_mapeli/" alt="Instagram"/></a>
-</p>
+
+
+<div> 
+  <a href="https://www.instagram.com/vitor_mapeli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitormapeli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vitor-mapeli-263b3527a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 
