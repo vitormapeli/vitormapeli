@@ -18,7 +18,7 @@
 
 <br>
 
-<div style="display: flex; justify-content: space-between;">
+<div style="display: inline-block">
   <div>
     <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
   </div>
