@@ -17,10 +17,10 @@
 
 <div style="display: flex; justify-content: space-between;">
   <div style="flex: 1;">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" style="max-width: 100%;">
+    <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
   </div>
   <div style="flex: 1;">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true" style="max-width: 100%;">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
   </div>
 </div>
 
