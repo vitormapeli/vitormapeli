@@ -18,11 +18,11 @@
 
 <br>
 
-<div style="display: flex">
-  <div style="width=36em">
+<div style="display: flex;">
+  <div style="width: 36em;">
     <img src="https://github-readme-stats.vercel.app/api?username=vitormapeli&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true">
   </div>
-  <div style="width=36em">
+  <div style="width: 36em;">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=vitormapeli&theme=midnight-purple&hide_border=true">
   </div>
 </div>
@@ -34,8 +34,3 @@
   <a href = "mailto:vitormapeli@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/vitor-mapeli-263b3527a/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
-
-<style>
-   .markdown-body table td{
-      border: none;
-</style>
