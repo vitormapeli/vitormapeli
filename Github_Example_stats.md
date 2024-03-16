@@ -210,7 +210,7 @@
 [neon_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vitormapeli&repo=AgileDragonLandingPage&cache_seconds=86400&theme=neon
 [blue_navy_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vitormapeli&repo=AgileDragonLandingPage&cache_seconds=86400&theme=blue_navy
 [calm_pink_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vitormapeli&repo=AgileDragonLandingPage&cache_seconds=86400&theme=calm_pink
-[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vitormapeli=AgileDragonLandingPage&cache_seconds=86400&theme=ambient_gradient
+[ambient_gradient_repo]: https://github-readme-stats.vercel.app/api/pin/?username=vitormapeli&repo=AgileDragonLandingPage&cache_seconds=86400&theme=ambient_gradient
 
 
 [add-theme]: https://github.com/vitormapeli/github-readme-stats/edit/master/themes/index.js
